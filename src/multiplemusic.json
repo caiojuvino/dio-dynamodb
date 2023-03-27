@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "The Beatles"},
+                  "Song": {"S": "Love Me Do"},
+                  "Album": {"S": "Please Please Me"},
+                  "Year": {"S": "1963"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "The Beatles"},
+                  "Song": {"S": "Let It Be"},
+                  "Album": {"S": "Let It Be"},
+                  "Year": {"S": "1970"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "The Beatles"},
+                  "Song": {"S": "Something"},
+                  "Album": {"S": "Abbey Road"},
+                  "Year": {"S": "1969"}
+                }
+            }
+        }
+      ]
+}

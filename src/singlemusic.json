@@ -1,0 +1,6 @@
+{
+  "Artist": {"S": "The Beatles"},
+  "Song": {"S": "Yellow Submarine"},
+  "Album": {"S": "Revolver"},
+  "Year": {"S": "1966"}
+}
